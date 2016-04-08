@@ -1,8 +1,4 @@
-/**
- * Anthony Sanworanart (aas4pc)
- * Hannah Nguyen (hn9zj)
- * Angie Vo (adv3ks)
- */
+//Angie Vo
 
 import java.awt.Color;
 import java.awt.Dimension;
